@@ -3,7 +3,7 @@ main:
   - title: "RobustKV: Defending Large Language Models against Jailbreak Attacks via KV Eviction"
     authors: <strong>Tanqiu Jiang</strong>, Zian Wang, Jiacheng Liang, Changjiang Li, Yuhui Wang, Ting Wang
     conference_short: ICLR
-    conference: The Thirteenth International Conference on Learning Representations <strong>(ICLR)</strong>, 2025.
+    conference: International Conference on Learning Representations <strong>(ICLR)</strong>, 2025.
     pdf: https://openreview.net/forum?id=L5godAOC2z
     #code: https://github.com/MrGiovanni/ContinualLearning
     #bibtex: https://bib.yliu.me/MICCAI23.txt
@@ -13,7 +13,7 @@ main:
   - title: "RAPID: Retrieval Augmented Training of Differentially Private Diffusion Models"
     authors: <strong>Tanqiu Jiang</strong>, Changjiang Li, Fenglong Ma, Ting Wang
     conference_short: ICLR
-    conference: The Thirteenth International Conference on Learning Representations <strong>(ICLR)</strong>, 2025.
+    conference: International Conference on Learning Representations <strong>(ICLR)</strong>, 2025.
     pdf: https://openreview.net/forum?id=txZVQRc2ab
     #code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     #page: https://class-il.mpi-inf.mpg.de/mnemonics/
