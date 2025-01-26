@@ -5,7 +5,7 @@ layout: homepage
 ## About Me
 
 <p>Hi, welcome to my personal website! <br />
-I am a Ph.D. student at the <a href="https://www.stonybrook.edu/">Stony Brook University</a> in the <a href="https://www.cs.stonybrook.edu/">Department of Computer Science</a> <br />where I intend to study Data Science for Social Good.<br />I am advised by Professor <a href="https://alps-lab.github.io/">Ting Wang</a> and received one year of kind advise and help from Professor <a href="https://pike.psu.edu/dongwon/">Dongwon Lee</a> at Penn State University.</p>
+I am a Ph.D. student at the <a href="https://www.stonybrook.edu/">Stony Brook University</a> in the <a href="https://www.cs.stonybrook.edu/">Department of Computer Science</a> where I intend to study Data Science for Social Good. I am advised by Professor <a href="https://alps-lab.github.io/">Ting Wang</a> and received one year of kind advise and help from Professor <a href="https://pike.psu.edu/dongwon/">Dongwon Lee</a> at Penn State University.</p>
 
 ## Research Interests
 
