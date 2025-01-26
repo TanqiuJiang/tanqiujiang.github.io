@@ -1,6 +1,6 @@
 main:
 
-  - title: RobustKV: Defending Large Language Models against Jailbreak Attacks via KV Eviction
+  - title: "RobustKV: Defending Large Language Models against Jailbreak Attacks via KV Eviction"
     authors: <strong>Tanqiu Jiang</strong>, Zian Wang, Jiacheng Liang, Changjiang Li, Yuhui Wang, Ting Wang
     conference_short: ICLR
     conference: The Thirteenth International Conference on Learning Representations <strong>(ICLR)</strong>, 2025.
