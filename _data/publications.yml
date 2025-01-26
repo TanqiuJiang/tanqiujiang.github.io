@@ -5,18 +5,29 @@ main:
     conference_short: ICLR
     conference: The Thirteenth International Conference on Learning Representations <strong>(ICLR)</strong>, 2025.
     pdf: https://openreview.net/forum?id=L5godAOC2z
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
+    #code: https://github.com/MrGiovanni/ContinualLearning
+    #bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/RobustKV.png
     notes: Accept
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: "RAPID: Retrieval Augmented Training of Differentially Private Diffusion Models"
+    authors: <strong>Tanqiu Jiang</strong>, Changjiang Li, Fenglong Ma, Ting Wang
+    conference_short: ICLR
+    conference: The Thirteenth International Conference on Learning Representations <strong>(ICLR)</strong>, 2025.
+    pdf: https://openreview.net/forum?id=txZVQRc2ab
+    #code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    #page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    #bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    notes: Accept
+    image: ./assets/img/RAPID.png
+  
+  - title: "Learning-Augmented Data Stream Algorithms"
+    authors: <strong>Tanqiu Jiang</strong>, Yi Li, Honghao Lin, Yisong Ruan, David P. Woodruff
+    conference_short: ICLR
+    conference: International Conference on Learning Representations <strong>(ICLR)</strong>, 2020.
+    pdf: https://openreview.net/forum?id=HyxJ1xBYDH
+    code: https://drive.google.com/open?id=1faroW4fFTM7ELVkZDtgiMBjUu1F-piQa
+    #page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    #bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    notes: Accept
+    image: ./assets/img/2020.png
