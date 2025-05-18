@@ -5,7 +5,7 @@ main:
     conference_short: ICLR
     conference: International Conference on Learning Representations <strong>(ICLR)</strong>, 2025.
     pdf: https://openreview.net/forum?id=L5godAOC2z
-    #code: https://github.com/TanqiuJiang/RobustKV
+    code: https://github.com/TanqiuJiang/RobustKV
     #bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/RobustKV.png
     notes: Accept (poster)
