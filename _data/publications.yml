@@ -1,5 +1,14 @@
 main:
 
+  - title: "Dynamic Token Reweighting for Robust Vision-Language Models"
+    authors: <strong>Tanqiu Jiang</strong>, Jiacheng Liang, Runyi Zhu, Jiaming Zhou, Fenglong Ma, Ting Wang
+    conference_short: CVPR
+    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2026.
+    pdf: https://arxiv.org/abs/2505.17132
+    code: https://github.com/TanqiuJiang/DTR
+    image: ./assets/img/DTR.png
+    notes: Accept
+
   - title: "RobustKV: Defending Large Language Models against Jailbreak Attacks via KV Eviction"
     authors: <strong>Tanqiu Jiang</strong>, Zian Wang, Jiacheng Liang, Changjiang Li, Yuhui Wang, Ting Wang
     conference_short: ICLR
@@ -31,3 +40,4 @@ main:
     #bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     notes: Accept (poster)
     image: ./assets/img/2020.png
+

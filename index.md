@@ -14,6 +14,7 @@ I am a Ph.D. student at the <a href="https://www.stonybrook.edu/">Stony Brook Un
 
 ## News
 
+- **[Feb. 2026]** Our paper about dynamic token reweighting for robust vision-language models is accepted to CVPR 2026!
 - **[Jan. 2025]** Our paper about defending jailbreak attacks via attention-based KV eviction is accepted to ICLR 2025! See you in Singapore! 
 - **[Jan. 2025]** Our paper about Retrieval-Augmented Differentially Private Diffusion Model is accepted to ICLR 2025! See you in Singapore! 
 - **[Aug. 2023]** I have started a new journey at Stony Brook University as a PhD Student in Computer Science!
