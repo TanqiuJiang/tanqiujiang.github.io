@@ -1,7 +1,16 @@
 main:
 
+  - title: "AgentLAB: Benchmarking LLM Agents against Long-Horizon Attacks"
+    authors: <strong>Tanqiu Jiang</strong>, Yuhui Wang, Jiacheng Liang, Ting Wang
+    conference_short: ICML
+    conference: International Conference on Machine Learning <strong>(ICML)</strong>, 2026.
+    page: https://tanqiujiang.github.io/AgentLAB_main/
+    pdf: https://arxiv.org/abs/2602.16901
+    image: ./assets/img/AgentLAB.png
+    notes: Accept (regular)
+
   - title: "Dynamic Token Reweighting for Robust Vision-Language Models"
-    authors: <strong>Tanqiu Jiang</strong>, Jiacheng Liang, Runyi Zhu, Jiaming Zhou, Fenglong Ma, Ting Wang
+    authors: <strong>Tanqiu Jiang</strong>, Jiacheng Liang, Rongyi Zhu, Jiaming Zhou, Fenglong Ma, Ting Wang
     conference_short: CVPR
     conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2026.
     pdf: https://arxiv.org/abs/2505.17132
