@@ -5,6 +5,7 @@ main:
     conference_short: ICML
     conference: International Conference on Machine Learning <strong>(ICML)</strong>, 2026.
     page: https://tanqiujiang.github.io/AgentLAB_main/
+    code: https://github.com/TanqiuJiang/AgentLAB
     pdf: https://arxiv.org/abs/2602.16901
     image: ./assets/img/agentlab.png
     notes: Accept (regular)
