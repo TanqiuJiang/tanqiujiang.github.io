@@ -7,7 +7,7 @@ main:
     page: https://tanqiujiang.github.io/AgentLAB_main/
     code: https://github.com/TanqiuJiang/AgentLAB
     pdf: https://arxiv.org/abs/2602.16901
-    image: ./assets/img/agentlab.png
+    image: ./assets/img/agentlab_fig.png
     notes: Accept (regular)
 
   - title: "Dynamic Token Reweighting for Robust Vision-Language Models"
