@@ -14,10 +14,10 @@ main:
     authors: <strong>Tanqiu Jiang</strong>, Jiacheng Liang, Rongyi Zhu, Jiaming Zhou, Fenglong Ma, Ting Wang
     conference_short: CVPR
     conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2026.
-    pdf: https://arxiv.org/abs/2505.17132
+    pdf: https://openaccess.thecvf.com/content/CVPR2026/html/Jiang_Dynamic_Token_Reweighting_for_Robust_Vision-Language_Models_CVPR_2026_paper.html
     code: https://github.com/TanqiuJiang/DTR
     image: ./assets/img/DTR.png
-    notes: Accept
+    notes: Accept (poster)
 
   - title: "RobustKV: Defending Large Language Models against Jailbreak Attacks via KV Eviction"
     authors: <strong>Tanqiu Jiang</strong>, Zian Wang, Jiacheng Liang, Changjiang Li, Yuhui Wang, Ting Wang
